@@ -1,2 +1,6 @@
-client/node_modules
-client/package-lock.json
+*.pem
+*.key
+
+front/node_modules
+front/package-lock.json
+front/dist
